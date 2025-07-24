@@ -2,11 +2,11 @@
 
 3D Prodecural world generation using the new kotlin bindings from Google's implementation of WebGPU, Dawn.
 
-![Screenshot of app](https://imgur.com/a/5uEdRrX "World with default settings")
+![Screenshot of app](https://i.imgur.com/wmSdDSE.png)
 
 ## Build instructions
 
-*Build the bindings using the instructions from [the Dawn repo]([url](https://dawn.googlesource.com/dawn/+/refs/heads/main/tools/android/))
+* Build the bindings using the instructions from [the Dawn repo]([url](https://dawn.googlesource.com/dawn/+/refs/heads/main/tools/android/))
 
 * Publish the library to mavenLocal. It should be in your ~/.m2 directory
 
