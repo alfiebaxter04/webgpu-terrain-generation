@@ -1,0 +1,55 @@
+.gradle/
+/build/
+/app/build/
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+.android/
+
+.apt_generated/
+.apt_generated_tests/
+
+*.kpt
+.kotlin/
+
+*.log
+
+crashlytics-build.properties
+fabric.properties
+
+.android/avd/
+
+!gradle/wrapper/gradle-wrapper.jar
+
+*.keystore
+*.jks
+
+# Other potentially generated files or caches
+*.aar
+*.apk
+*.ap_
+*.dex
+*.pak
+*.profile
+*.hprof
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Android Studio temporary files for local development
+.idea/caches/
+.idea/libraries/
+.idea/workspace.xml
+
+/test-results/
+/outputs/
