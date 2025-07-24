@@ -1,6 +1,6 @@
 # webgpu-terrain-generation
 
-3D Prodecural world generation using the Kotlin bindings from Google's implementation of WebGPU, Dawn.
+3D Prodecural world generation in Android using the Kotlin bindings from Google's implementation of WebGPU, Dawn.
 
 ![Screenshot of app](https://i.imgur.com/wmSdDSE.png)
 
