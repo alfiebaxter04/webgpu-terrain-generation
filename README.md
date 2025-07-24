@@ -6,7 +6,7 @@
 
 ## Build instructions
 
-* Build the bindings using the instructions from [the Dawn repo]([url](https://dawn.googlesource.com/dawn/+/refs/heads/main/tools/android/))
+* Build the bindings using the instructions from [the Dawn repository's Android tools documentation](https://dawn.googlesource.com/dawn/+/refs/heads/main/tools/android/)
 
 * Publish the library to mavenLocal. It should be in your ~/.m2 directory
 
